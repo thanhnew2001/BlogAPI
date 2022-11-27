@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.odazie</groupId>
-    <artifactId>simpleBlog</artifactId>
+    <artifactId>blog-api-docker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>simpleBlog</name>
     <description>Demo project for Spring Boot</description>
