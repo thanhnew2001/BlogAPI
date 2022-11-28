@@ -1,6 +1,6 @@
 services:
   API:
-    image: 'blog-api-docker.jar'
+    image: 'blog-api-docker'
     ports:
       - "8080:8080"
     depends_on:
